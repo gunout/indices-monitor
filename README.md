@@ -71,11 +71,17 @@ L'application intègre des indicateurs techniques avancés (RSI, MACD, SMA, Boll
 # Structure du projet :
 
 trading-monitor/
+
 ├── serv.py                 # Serveur Flask principal
+
 ├── yfinance_patch.py       # Patch pour l'API Yahoo Finance
+
 ├── monitor.html            # Interface utilisateur
+
 ├── lightweight-charts.standalone.js  # Bibliothèque graphique
+
 ├── static/                 # Fichiers statiques (CSS, JS)
+
 └── templates/              # Templates Flask    
 
 # EXAMPLE .
