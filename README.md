@@ -40,14 +40,33 @@ L'application intègre des indicateurs techniques avancés (RSI, MACD, SMA, Boll
 
     Momentum - tendance à court terme
 
+# CREER UN ENV VIRTUEL PYTHON :
+
+    python -m venv mon38
+
+# Windows
+    
+    mon38\Scripts\activate
+
+# Linux/Mac
+    
+    source mon38/bin/activate
 
 # INSTALLATION DES DEPENDENCES :
 
     pip install -r requirements.txt
 
+# Ou     
+    
+    pip install flask flask-cors yfinance pandas numpy scikit-learn pytz
+
 # RUN APP :
 
     python serv.py
+
+# Ouvrir Navigateur Web :    
+    
+    http://localhost:5001
     
 # EXAMPLE .
 
