@@ -67,7 +67,17 @@ L'application intègre des indicateurs techniques avancés (RSI, MACD, SMA, Boll
 # Ouvrir Navigateur Web :    
     
     http://localhost:5001
-    
+
+# Structure du projet :
+
+trading-monitor/
+├── serv.py                 # Serveur Flask principal
+├── yfinance_patch.py       # Patch pour l'API Yahoo Finance
+├── monitor.html            # Interface utilisateur
+├── lightweight-charts.standalone.js  # Bibliothèque graphique
+├── static/                 # Fichiers statiques (CSS, JS)
+└── templates/              # Templates Flask    
+
 # EXAMPLE .
 
 <img width="1577" height="747" alt="Screenshot 2026-07-27 at 14-45-14 Indices Monitor - 12 Categories" src="https://github.com/user-attachments/assets/03120d5e-265c-44e7-b452-9c45deedf2b5" />
