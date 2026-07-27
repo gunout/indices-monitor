@@ -53,4 +53,7 @@ L'application intègre des indicateurs techniques avancés (RSI, MACD, SMA, Boll
 
 <img width="1577" height="747" alt="Screenshot 2026-07-27 at 14-45-14 Indices Monitor - 12 Categories" src="https://github.com/user-attachments/assets/03120d5e-265c-44e7-b452-9c45deedf2b5" />
 
+<img width="1577" height="747" alt="Screenshot 2026-07-27 at 14-50-44 Indices Monitor - 12 Categories" src="https://github.com/user-attachments/assets/364eac86-2e0f-4dc0-88b8-83a538f39efc" />
+
+
 By Gleaphe 2026 .
